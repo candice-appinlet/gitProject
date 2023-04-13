@@ -5,3 +5,8 @@ h1{
 p{
   color: pink;
 }
+
+form {
+  margin: 30px;
+  padding: 20px;
+}
